@@ -71,4 +71,15 @@ Response Time,All,Speed of Response,5s,4s,10s,p < 0.01,AI responses were quicker
 - **Significance Testing**: Use appropriate statistical tests (e.g., t-tests, chi-square tests) to determine the significance of differences.
 - **Confidence Intervals**: Provide confidence intervals for all reported metrics to indicate the precision of the estimates.
 
-By integrating these detailed steps and ensuring comprehensive evaluation, the methodology will provide robust and insightful comparisons of GenAI systems in various medical scenarios.
+### Disclaimer
+
+This document and the framework described herein are provided for informational purposes only. They are not intended to replace professional medical advice, diagnosis, or treatment. The results and analyses presented are based on hypothetical scenarios and should not be applied directly to clinical practice without further validation. The authors do not guarantee the accuracy, completeness, or applicability of the information contained in this document. Use of this framework should be undertaken with caution, and users should always consult with qualified healthcare professionals for medical decisions.
+
+### Copyright Notice
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/3.0/](http://creativecommons.org/licenses/by-sa/3.0/).
+
+---
+
+©Copyright 2024 Abhishek Choudhary, AyeAI
+All derivations must point to the original source of this document as  https://github.com/HIT-Tools/genAI/blob/main/appliedResearchTemplate_genAI_healthcare.md
